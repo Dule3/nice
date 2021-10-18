@@ -13,7 +13,7 @@ var rndNo = 0;
 var nice = false;
 var nice69 = setInterval(function()
 { 
-rndNo = getRandomInt(0,696969); 
+rndNo = getRandomInt(0,6969); 
 nice = (rndNo === 69 ?  true : false);
 if (nice === true){
     clearInterval(nice69);
