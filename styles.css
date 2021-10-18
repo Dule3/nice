@@ -1,0 +1,11 @@
+html {
+  /* background: url(./nice.jpg) no-repeat center center fixed; */
+  background-size: cover;
+}
+
+h3,
+h4 {
+  justify-content: center;
+  text-align: center;
+  color: red;
+}
